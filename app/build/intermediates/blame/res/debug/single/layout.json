@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\TestWorkspace\\360FloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_window_small.xml",
+        "source": "D:\\TestWorkspace\\360FloatWindowDemo\\app\\src\\main\\res\\layout\\float_window_small.xml"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\360FloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_window_big.xml",
+        "source": "D:\\TestWorkspace\\360FloatWindowDemo\\app\\src\\main\\res\\layout\\float_window_big.xml"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\360FloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\TestWorkspace\\360FloatWindowDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

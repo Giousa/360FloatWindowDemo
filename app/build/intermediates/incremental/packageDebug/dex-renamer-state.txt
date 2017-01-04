@@ -1,0 +1,7 @@
+#Wed Jan 04 15:55:13 CST 2017
+base.0=D\:\\TestWorkspace\\360FloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_758861bd7a3f9d72e4ec8860e5e1310770f02cd5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\TestWorkspace\\360FloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_03271df946b3c6ed3626346c8f2a6b8a2ff02677\\classes.dex
+base.1=D\:\\TestWorkspace\\360FloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_03271df946b3c6ed3626346c8f2a6b8a2ff02677
+file.0=D\:\\TestWorkspace\\360FloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_758861bd7a3f9d72e4ec8860e5e1310770f02cd5\\classes.dex

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b0a805da135dddabb4b4de914beaa62a80038d9">
+        <dex dex="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_758861bd7a3f9d72e4ec8860e5e1310770f02cd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42e465bb3c0d62066c74cb54da6e82de4f950760">
+        <dex dex="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_03271df946b3c6ed3626346c8f2a6b8a2ff02677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.0_3df857cb7b510bef453dc6b0a1eb06bc370918f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Develop\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.0_101e37f9cad32a48ef0010f6f80478922dca315c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\TestWorkspace\360FloatWindowDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.0_4f76071bf6a1877553456995ed268ff13b9967d5\classes.dex" />
+    </item>
+
+</items>
